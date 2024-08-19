@@ -39,4 +39,4 @@
   <li>📕 Books</li>
 </ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessiobanzato&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true" alt="alessiobanzato" /></p>
+![Alessio's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessiobanzato&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true&cache_seconds=1800)

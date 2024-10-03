@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessio</h1>
-<h3 align="center">BSc Computer Science @ University of Padua</h3>
+<h3 align="center">BSc Graduate in Computer Science @ University of Padua</h3>
 
 - 🔎 I’m interested in **software development**, **computer networks** and **cybersecurity**
 
